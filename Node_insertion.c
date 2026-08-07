@@ -1,4 +1,4 @@
-//WAP to insert a node in the beginning of the linked list
+//WAP to insert a node in the beginning of the singly linked list
 #include<stdio.h>
 #include<stdlib.h>
 struct node{
